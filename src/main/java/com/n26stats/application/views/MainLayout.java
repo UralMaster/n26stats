@@ -1,8 +1,8 @@
-package com.example.application.views;
+package com.n26stats.application.views;
 
 
-import com.example.application.views.about.AboutView;
-import com.example.application.views.helloworld.HelloWorldView;
+import com.n26stats.application.views.about.AboutView;
+import com.n26stats.application.views.helloworld.HelloWorldView;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.applayout.AppLayout;
 import com.vaadin.flow.component.applayout.DrawerToggle;
